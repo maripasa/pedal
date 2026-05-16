@@ -37,4 +37,4 @@ if [[ ! -f "${UF2_PATH}" ]]; then
   exit 1
 fi
 
-picotool load "${UF2_PATH}" -xv
+sudo picotool load "${UF2_PATH}" -xv
