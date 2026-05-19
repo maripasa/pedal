@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pcm1808_board")(type "KiCad")(uri "${KIPRJMOD}/pcm1808_board.kicad_sym")(options "")(descr ""))
+  (lib (name "dac_adc")(type "KiCad")(uri "${KIPRJMOD}/dac_adc.kicad_sym")(options "")(descr ""))
+)
